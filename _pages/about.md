@@ -22,6 +22,10 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD Candidate in Information Science at the University of Colorado Boulder. My research focus surrounds content asymmetry across English and Arabic on Wikipedia or output with LLMs. My methods include NLP, Networks, Surveys, and Digital Trace Ethnography. I am co-advised by [Brian Keegan](https://www.brianckeegan.com) and [Alexandra Siegel](https://aasiegel.github.io/website/website-main/). 
 
+I have been a graduate researcher at the Los Alamos National Laboratory, UMD Applied Research Lab for Intelligence & Security. 
+
+I also recieved a year long grant from the Wikimedia Foundation. 
+
 Prior to CU, I received a two Bachelor's degree from Washington and Lee University in Computer Science and Physics and minored in Middle Easte and South East Asian Culture with a foucs in Arabic Language. I participated in socio-physics reserach with [Prof. Irina Mazilu](https://www.wlu.edu/profile/mazilu-irina) and sociology physics with [Prof. Jon Eastwood](https://www.wlu.edu/profile/eastwood-jonathan).  
 
 <!--
