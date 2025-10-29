@@ -171,9 +171,9 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  portfolio:
+  projects:
     output: true
-    permalink: /portfolio/:path/
+    permalink: /projects/:path/
 
 announcements:
   enabled: true
