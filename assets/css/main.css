@@ -233,6 +233,7 @@ table td,
 table th {
   font-size: 1rem;
 }
+
 a,
 table.table a {
   color: var(--global-theme-color);
