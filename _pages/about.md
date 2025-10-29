@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  UX Reserach and Computational Social Science
+subtitle:  UX Reseracher and Computational Social Scientist
 
 profile:
   align: right
