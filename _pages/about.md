@@ -1,4 +1,12 @@
 ---
+
+# things you can do
+# - add blog
+# - add 'selected publications' and link to my google scholar on the about page
+# - add a teachign section -- in another page 
+# 
+
+
 layout: about
 title: about
 permalink: /
@@ -28,13 +36,6 @@ I also recieved the [Wikipedia Research Fund from the Wikimedia Foundation](http
 
 Prior to CU, I received a two Bachelor's degree from Washington and Lee University in Computer Science and Physics and minored in Middle Easte and South East Asian Culture with a foucs in Arabic Language. I participated in socio-physics reserach with Prof. [Irina Mazilu](https://www.wlu.edu/profile/mazilu-irina) and sociology physics with Prof. [Jon Eastwood](https://www.wlu.edu/profile/eastwood-jonathan).  
 
-<!--
-things you can do
-- add blog
-- add 'selected publications' and link to my google scholar on the about page
-
-these are all in the top
--->
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.test
