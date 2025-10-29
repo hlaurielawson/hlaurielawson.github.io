@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD Candidate in Information Science at the [University of Colorado Boulder](https://www.colorado.edu/cmdi/people/graduate-students/information-science/laurie-jones). My research focus surrounds content and affordance perception utilization asymmetry across English and Arabic on Wikipedia or output with LLMs. My methods include NLP, Networks, Surveys, and Digital Trace Ethnography. I am co-advised by Prof. [Brian Keegan](https://www.brianckeegan.com) and Prof. [Alexandra Siegel](https://aasiegel.github.io/website/website-main/). 
+I am a PhD Candidate in Information Science at the [University of Colorado Boulder](https://www.colorado.edu/cmdi/people/graduate-students/information-science/laurie-jones). My research focus surrounds content and affordance utilization asymmetry across English and Arabic on Wikipedia or output with LLMs. My methods include NLP, Networks, Surveys, and Digital Trace Ethnography. I am co-advised by Prof. [Brian Keegan](https://www.brianckeegan.com) and Prof. [Alexandra Siegel](https://aasiegel.github.io/website/website-main/). 
 
 I have been a graduate researcher at the Los Alamos National Laboratory, UMD Applied Research Lab for Intelligence & Security. 
 
