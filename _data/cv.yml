@@ -35,11 +35,12 @@
       institution: Wikimedia Foundation
       year: Aug. 2023 - April 2024
       description:
-      Grant Information: https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Research_Fund/Network_perspectives_on_collective_memory_processes_across_the_Arabic_and_English_Wikipedias
         - Developed and deployed a streamlined multilingual data preprocessing pipeline
         - Spearheading groundbreaking integration of in low-resource and high-resource Natural Language
         - Processing tools and Network Analysis tools into multilingual research pipelines
         - Demonstrating a strong commitment to inclusion by actively integrating diverse perspectives into NLP model training, resulting in models that exhibit greater cultural sensitivity and fairness.
+      link: https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Research_Fund/Network_perspectives_on_collective_memory_processes_across_the_Arabic_and_English_Wikipedias
+
     - title: Graduate Researcher
       institution: UMD Applied Research Lab for Intelligence & Security, Research for Intelligence & Security Challenges (RISC) Summer Internship for Hard Security Problems
       year: June - Aug. 2023
@@ -58,11 +59,6 @@
       year: Jan - April 2021
       description:
         - Supported an NSF-sponsored project utilizing NLP and network analysis to study genealogical relationships and behavioral sequences among online communities.
-    - title: Research Assistant
-      institution: Stanford University
-      year: Jun - Aug 2017
-      description:
-        - Low dose PET reconstruction with deep learning
 
 # - title: Open Source Projects
 #   type: time_table
