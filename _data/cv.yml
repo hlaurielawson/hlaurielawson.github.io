@@ -28,22 +28,24 @@
       description:
        - Middle East and South-East Asia Studies with Arabic Language Focus
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
     - title: Graduate Researcher
       institution: Wikimedia Foundation
       year: Aug. 2023 - April 2024
+      link: https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Research_Fund/Network_perspectives_on_collective_memory_processes_across_the_Arabic_and_English_Wikipedias
+      # links:
+      # - name: Grant Information
+      #   url: https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Research_Fund/Network_perspectives_on_collective_memory_processes_across_the_Arabic_and_English_Wikipedias
+      # - name: Preprint
+      #   url: https://arxiv.org/pdf/2404.10706?
       description:
         - Developed and deployed a streamlined multilingual data preprocessing pipeline
         - Spearheading groundbreaking integration of in low-resource and high-resource Natural Language
         - Processing tools and Network Analysis tools into multilingual research pipelines
         - Demonstrating a strong commitment to inclusion by actively integrating diverse perspectives into NLP model training, resulting in models that exhibit greater cultural sensitivity and fairness.
-      links:
-      - name: Preprint
-        url: https://arxiv.org/pdf/2404.10706?
-      - name: Grant Information
-        url: https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Research_Fund/Network_perspectives_on_collective_memory_processes_across_the_Arabic_and_English_Wikipedias
+      
 
     - title: Graduate Researcher
       institution: UMD Applied Research Lab for Intelligence & Security, Research for Intelligence & Security Challenges (RISC) Summer Internship for Hard Security Problems
