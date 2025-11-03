@@ -25,37 +25,40 @@
     - title: B.S. in Computer Science and B.S. in Physics
       institution: Wshington and Lee University
       year: 2017 - 2021
-      #description:
-      #  - Description 1.
-      #  - Description 2.
+      description:
+       - Middle East and South-East Asia Studies with Arabic Language Focus
 
 - title: Experience
   type: time_table
   contents:
-    - title: Research Assistant
-      institution: Massachusetts Institute of Technology
-      year: 2018 - present
+    - title: Graduate Researcher
+      institution: Wikimedia Foundation
+      year: Aug. 2023 - April 2024
       description:
-        - 2D-to-3D reconstruction
-        - Image quality assessment
-        - 3D pose estimation pipeline for fetal MRI
-    - title: Machine Learning Engineer Intern
-      institution: Instagram Reels Core Ranking @ Meta
-      year: May - Aug 2022
+#       [Grant Information](https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Research_Fund/Network_perspectives_on_coll
+# ective_memory_processes_across_the_Arabic_and_English_Wikipedias)
+        - Developed and deployed a streamlined multilingual data preprocessing pipeline
+        - Spearheading groundbreaking integration of in low-resource and high-resource Natural Language
+        - Processing tools and Network Analysis tools into multilingual research pipelines
+        - Demonstrating a strong commitment to inclusion by actively integrating diverse perspectives into NLP model training, resulting in models that exhibit greater cultural sensitivity and fairness.
+    - title: Graduate Researcher
+      institution: UMD Applied Research Lab for Intelligence & Security, Research for Intelligence & Security Challenges (RISC) Summer Internship for Hard Security Problems
+      year: June - Aug. 2023
       description:
-        - Mitigated short video bias in Reels
-    - title: Software Engineer Intern
-      institution: Adwords Insights Team @ Google
-      year: Jun - Aug 2021
+        - Generated a scalable synthetic pattern of life data pipeline through Hidden Markov Models through diverse, open source, data sources
+        - Working seamlessly with cross-functional teams of diverse backgrounds and disciplines.
+        - Initiated and led a research project focused on data generation, contributing to a published poster at a conference of many high-level government officials
+    - title: Graduate Research Assistant
+      institution: Los Alamos National Laboratory
+      year: May - Dec 2022
       description:
-        - Improved keyword classification in search ads
-        - Developed algorithms to detect the cold start of bidding strategies
-    - title: Research Scientist Intern
-      institution: United Imaging Intellignece America
-      year: Jun - Aug 2020
+        - Application of NLP tools to news media sources to extract and characterize narratives
+        - Internal data exploration and analysis leading to group wide presentations with laboratory wide repercussions
+    - title: Graduate Research Assistant
+      institution: University of Colorado and NSF
+      year: Jan - April 2021
       description:
-        - Multi-modal image registration with neural ODE
-        - Differentiable Digitally Reconstructed Radiograph (DRR)
+        - Supported an NSF-sponsored project utilizing NLP and network analysis to study genealogical relationships and behavioral sequences among online communities.
     - title: Research Assistant
       institution: Stanford University
       year: Jun - Aug 2017
