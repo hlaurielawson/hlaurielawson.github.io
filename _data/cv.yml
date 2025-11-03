@@ -39,7 +39,11 @@
         - Spearheading groundbreaking integration of in low-resource and high-resource Natural Language
         - Processing tools and Network Analysis tools into multilingual research pipelines
         - Demonstrating a strong commitment to inclusion by actively integrating diverse perspectives into NLP model training, resulting in models that exhibit greater cultural sensitivity and fairness.
-      link: https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Research_Fund/Network_perspectives_on_collective_memory_processes_across_the_Arabic_and_English_Wikipedias
+      links:
+      - name: Preprint
+        url: https://arxiv.org/pdf/2404.10706?
+      - name: Grant Information
+        url: https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Research_Fund/Network_perspectives_on_collective_memory_processes_across_the_Arabic_and_English_Wikipedias
 
     - title: Graduate Researcher
       institution: UMD Applied Research Lab for Intelligence & Security, Research for Intelligence & Security Challenges (RISC) Summer Internship for Hard Security Problems
