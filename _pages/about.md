@@ -30,11 +30,11 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD Candidate in Information Science at the [University of Colorado Boulder](https://www.colorado.edu/cmdi/people/graduate-students/information-science/laurie-jones). My research focus surrounds content and affordance utilization asymmetry across English and Arabic on Wikipedia or output with LLMs. My methods include NLP, Networks, Surveys, and Digital Trace Ethnography. I am co-advised by Prof. [Brian Keegan](https://www.brianckeegan.com) and Prof. [Alexandra Siegel](https://aasiegel.github.io/website/website-main/). 
 
-I have been a graduate researcher at the Los Alamos National Laboratory, UMD Applied Research Lab for Intelligence & Security. 
+I have been a graduate researcher at the Los Alamos National Laboratory and UMD Applied Research Lab for Intelligence & Security. 
 
 I also recieved the [Wikipedia Research Fund from the Wikimedia Foundation](https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Research_Fund/Network_perspectives_on_collective_memory_processes_across_the_Arabic_and_English_Wikipedias). 
 
-Prior to CU, I received a two Bachelor's degree from Washington and Lee University in Computer Science and Physics and minored in Middle Easte and South East Asian Culture with a foucs in Arabic Language. I participated in socio-physics reserach with Prof. [Irina Mazilu](https://www.wlu.edu/profile/mazilu-irina) and sociology physics with Prof. [Jon Eastwood](https://www.wlu.edu/profile/eastwood-jonathan).  
+Prior to CU, I received a two Bachelor's degree from Washington and Lee University in Computer Science and Physics and minored in Middle East and South East Asian Culture with a foucs in Arabic Language. I participated in socio-physics reserach with Prof. [Irina Mazilu](https://www.wlu.edu/profile/mazilu-irina) and sociology research with Prof. [Jon Eastwood](https://www.wlu.edu/profile/eastwood-jonathan).  
 
 
 <!--
