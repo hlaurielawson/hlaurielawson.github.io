@@ -2,29 +2,29 @@
   type: map
   contents:
     - name: Full Name
-      value: Junshen Xu
+      value: Hannah Laurie Lawson
     #- name: Date of Birth
     #  value: 14th March 1879
     - name: Email
-      value: junshen [at] mit [dot] edu
+      value: laurie.lawson [at] colorado [dot] edu
     - name: Languages
-      value: English, Chinese
+      value: English, Arabic
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Electrical Engineering and Computer Science
-      institution: Massachusetts Institute of Technology
-      year: 2018 - 2023
-    - title: S.M. in Electrical Engineering and Computer Science
-      institution: Massachusetts Institute of Technology
-      year: 2018 - 2020
+    - title: Ph.D. in Information Science
+      institution: University of Colorado Boulder
+      year: 2021 - CURRENT
+    - title: MS in Information Science
+      institution: University of Colorado Boulder
+      year: 2021 - 2023
       #description:
       #  - Description 1.
       #  - Description 2.
-    - title: B.E. in Engineering Physics
-      institution: Tsinghua University
-      year: 2014 - 2018
+    - title: B.S. in Computer Science and B.S. in Physics
+      institution: Wshington and Lee University
+      year: 2017 - 2021
       #description:
       #  - Description 1.
       #  - Description 2.
