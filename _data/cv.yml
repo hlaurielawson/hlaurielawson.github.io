@@ -35,8 +35,7 @@
       institution: Wikimedia Foundation
       year: Aug. 2023 - April 2024
       description:
-#       [Grant Information](https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Research_Fund/Network_perspectives_on_coll
-# ective_memory_processes_across_the_Arabic_and_English_Wikipedias)
+      Grant Information: https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Research_Fund/Network_perspectives_on_collective_memory_processes_across_the_Arabic_and_English_Wikipedias
         - Developed and deployed a streamlined multilingual data preprocessing pipeline
         - Spearheading groundbreaking integration of in low-resource and high-resource Natural Language
         - Processing tools and Network Analysis tools into multilingual research pipelines
