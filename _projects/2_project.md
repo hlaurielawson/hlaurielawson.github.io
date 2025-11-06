@@ -22,4 +22,4 @@ Insights from this work help AI and product teams anticipate how global users ex
 - Delivered design-relevant insights on how LLMs reproduce or distort collective memory across cultures.
 
 #### Why it matters
-This study treats LLMs as interactive cultural interfaces. By testing how users in different linguistic contexts might encounter the same system, the research exposes how design choices and data shaping influence perceived credibility, cultural alignment, and user trust—key concerns for global UX and AI product teams.
+This study treats LLMs as interactive cultural interfaces. By testing how users in different linguistic contexts might encounter the same system, the research exposes how design choices and data shaping influence perceived credibility, cultural alignment, and user trust. These are key concerns for global UX and AI product teams.
