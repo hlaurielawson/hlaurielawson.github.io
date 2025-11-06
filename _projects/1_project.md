@@ -7,7 +7,7 @@ importance: 1
 category: Current
 ---
 
-I designed and led a mixed-methods study to explore how Wikipedia editors perceive and use the platform’s features—like hyperlinks, Talk Pages, and interlanguage links—to shape historical narratives about the Arab Spring.
+I designed and led a mixed-methods study to explore how Wikipedia editors perceive and use the platform’s features (like hyperlinks, Talk Pages, and interlanguage links) to shape historical narratives about the Arab Spring.
 
 Most research looks at what editors do. My work investigates how they think: how editors interpret their roles, engage with the platform’s affordances, and understand Wikipedia’s purpose across linguistic and cultural contexts.
 
