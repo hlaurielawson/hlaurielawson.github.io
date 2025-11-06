@@ -2,7 +2,7 @@
 layout: page
 title: portfolio
 permalink: /projects/
-description: A collection of projects that I am currently working on and have worked on in the past. I utilize a mixed methods approach prioritizing qantiative methods with python.
+description: A collection of projects exploring how people interact with technology across languages and cultures. I use a mixed-methods approach—prioritizing quantitative analysis with Python paired with qualitative insight to understand how design, language, and context shape digital experiences.
 nav: true
 nav_order: 2
 display_categories: [Current, Past]

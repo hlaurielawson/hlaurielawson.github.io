@@ -2,7 +2,7 @@
 layout: page
 title: Affordance Perception Across Languages on Wikipedia
 description: Understanding how Wikipedia editors shape collective memory across English and Arabic
-img: assets/img/12.jpg
+img: assets/img/miroSurvey.jpg
 importance: 1
 category: Current
 ---
