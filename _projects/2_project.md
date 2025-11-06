@@ -7,7 +7,7 @@ importance: 2
 category: Current
 ---
 
-I designed a cross-lingual study using prompt engineering to examine how large language models (LLMs) like GPT-4, Gemini, and DeepSeek represent the Arab Spring across languages, countries, and time frames. The project investigates how LLMs function not just as tools but as memory infrastructures—systems that extend, reinterpret, and sometimes distort collective memory.
+I designed a cross-lingual study using prompt engineering to examine how large language models (LLMs) like GPT-4, Gemini, and DeepSeek represent the Arab Spring across languages, countries, and time frames. The project investigates how LLMs function not just as tools but as systems that extend, reinterpret, and sometimes distort collective memory.
 
 #### Research Question
 *How do generative AI systems reflect or reshape cultural understanding when users interact with them in different languages and contexts?*
