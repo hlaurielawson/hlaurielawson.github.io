@@ -37,10 +37,12 @@ preprint: <https://arxiv.org/abs/2404.10706>
 **Methods** 
 - Wikihistories 2023 (Virtual) [link](https://wikihistories.net/2023/04/13/laurie-jones-network-perspectives-on-collective-memory-
 processes-across-the-arab-spring-in-arabic-and-english-wikipedias/)
+
+
 **Results**
 - Wiki Workshop 2024 (Virtual) [link](https://www.youtube.com/watch?v=TrthZ-
 zJ8ow&feature=youtu.be)
-- Visions in Methodology Conference 2024, Washington University in St. Louis, St.
-Louis, MO. United States
-- MENA and Asia Political Methodology Conference 2025, NYU Abu Dhabi, Abu
-Dhabi, United Arab Emirates.
+- Visions in Methodology Conference 2024 (Washington University in St. Louis, St.
+Louis, MO. United States)
+- MENA and Asia Political Methodology Conference 2025 (NYU Abu Dhabi, Abu
+Dhabi, United Arab Emirates)
