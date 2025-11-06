@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Simulating Perspective: Assessing LLMs as Multilingual Collective Memory Systems
+title: Simulating Perspective- Assessing LLMs as Multilingual Collective Memory Systems
 description: Exploring how LLMs reproduce historical narratives across English and Arabic
 img: assets/img/buildingLLM.jpg
 importance: 2
