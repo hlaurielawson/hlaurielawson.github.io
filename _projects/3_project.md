@@ -33,10 +33,11 @@ This research design demonstrates how mixed computational and theoretical approa
 
 #### Where this work has been presented:
 **Methods** 
+- Jones, H. Laurie, Keegan, Brian C. (2024, June 20). Temporal Clustering of Wikipedia Outlinks as
+Collective Memory Processes [Wiki Workshop 2024]. Virtual. <https://www.youtube.com/watch?v=TrthZ-zJ8ow&feature=youtu.be>
 - Jones, H. Laurie, Keegan, Brian C. (2023, June 8-9). “Network perspectives on collective memory
-processes across the Arab Spring in Arabic and English Wikipedias“ [Wikihistories]. Virtual. [link to presentation](https://wikihistories.net/2023/04/13/laurie-jones-network-perspectives-on-collective-memory-
-processes-across-the-arab-spring-in-arabic-and-english-wikipedias/)
-
+processes across the Arab Spring in Arabic and English Wikipedias“ [Wikihistories]. Virtual.
+<https://wikihistories.net/2023/04/13/laurie-jones-network-perspectives-on-collective-memory-processes-across-the-arab-spring-in-arabic-and-english-wikipedias/>
 
 **Results**
 - Jones, H. Laurie, Keegan, Brian C. (2024, January 11-11). Divergent Collective Memory Processes
@@ -45,7 +46,3 @@ Dhabi, United Arab Emirates.
 - Jones, H. Laurie, Keegan, Brian C. (2024, May 24-25). Divergent Collective Memory Processes
 Surrounding the Arab Spring [Visions in Methodology Conference]. Washington University in St. Louis, St.
 Louis, MO. United States
-- Jones, H. Laurie, Keegan, Brian C. (2024, June 20). Temporal Clustering of Wikipedia Outlinks as
-Collective Memory Processes [Wiki Workshop 2024]. [link to presentation](https://www.youtube.com/watch?v=TrthZ-
-zJ8ow&feature=youtu.be)
-
