@@ -1,81 +1,32 @@
 ---
 layout: page
-title: project 3
+title: Cross-Language Evolution of Collective Memory on Wikipedia
 description: Mapping how historical narratives evolve differently across English and Arabic
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+# redirect: https://unsplash.com
 importance: 3
 category: Past
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I built a large-scale computational framework to study how collective memory develops differently across Wikipedia’s English and Arabic editions of the Arab Spring article. The project models how editorial attention, hyperlinking, and cross-language connections shape the stories people encounter online—revealing how design features like interlanguage links and revision systems influence what becomes “remembered” on the internet.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**This was funded by the Wikimedia Foundation**
+grant description: https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Research_Fund/Network_perspectives_on_collective_memory_processes_across_the_Arabic_and_English_Wikipedias
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+**This is submitted to ICWSM '21**
+preprint: https://arxiv.org/abs/2404.10706
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+#### Research Question
+*Are there measurable differences in how collective memory is constructed across languages—and how do platform affordances shape those differences?*
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+#### Business Impact
+The findings offer insight into how global platforms can design for equitable information access and content integrity. They show how structural design choices—like linking systems or visibility of revisions—can influence narrative consistency, cultural context, and user understanding across markets.
 
+#### What I did
+- **Developed new computational measures** of collective memory: salience, deliberation, contextualization, and consolidation.
+- **Analyzed thousands of Wikipedia revisions** using Python, the Wikipedia API, and network modeling.
+- **Visualized hyperlink evolution and narrative divergence** to trace how shared events take on different meanings across languages.
+- **Applied a sociotechnical (STS + CSS) framework** linking user behavior, platform design, and cultural memory formation.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+#### Why it matters
+This research design demonstrates how mixed computational and theoretical approaches can expose hidden biases in platform infrastructures. By connecting digital trace data to sociotechnical theory, it provides an actionable model for studying how platform affordances (like linking structures and edit histories) shape user understanding and collective narratives worldwide.
