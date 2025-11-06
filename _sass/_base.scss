@@ -1031,4 +1031,18 @@ nav[data-toggle="toc"] {
       color: var(--global-danger-block-title);
     }
   }
+
 }
+
+/* Prevent long links from running off the page */
+a, code, pre {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
+}
+
+.markdown-body a {
+  word-break: break-all;
+  overflow-wrap: anywhere;
+}
+
