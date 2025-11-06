@@ -1026,6 +1026,18 @@ nav[data-toggle=toc] .nav-link.active:hover {
   color: var(--global-danger-block-title);
 }
 
+/* Prevent long links from running off the page */
+a, code, pre {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
+}
+
+.markdown-body a {
+  word-break: break-all;
+  overflow-wrap: anywhere;
+}
+
 /*******************************************************************************
  * Style overrides for distill blog posts.
  ******************************************************************************/
