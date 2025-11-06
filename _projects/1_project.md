@@ -17,7 +17,7 @@ Most research looks at what editors do. My work investigates how they think: how
 #### Business Impact
 Findings from this work would help product and UX teams design platform affordances that foster trust, equity, and meaningful participation across global user communities.
 
-#### What I did
+#### What I did (and am doing)
 Designed a bilingual survey (English & Arabic) distributed to 200 Wikipedia editors, capturing how they perceive platform tools, editorial norms, and Wikipedia’s role in preserving history.
 
 Conducted retrospective interviews where editors reflected on their own edits—discussing motivation, cultural context, and the norms guiding their actions.
