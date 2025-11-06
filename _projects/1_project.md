@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Affordance Perception Across Languages and Memories
+description: A Study of Wikipedia Editors on the ‘Arab Spring’ Article
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: current
 ---
 
 Every project has a beautiful feature showcase page.
