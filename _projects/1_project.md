@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Affordance Perception Across Languages and Memories
-description: A Study of Wikipedia Editors on the ‘Arab Spring’ Article
+title: Affordance Perception Across Languages on Wikipedia
+description: Understanding how Wikipedia editors shape collective memory across English and Arabic
 img: assets/img/12.jpg
 importance: 1
 category: Current
