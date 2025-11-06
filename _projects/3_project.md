@@ -13,7 +13,7 @@ I built a large-scale computational framework to study how collective memory dev
 
 **This was funded by the Wikimedia Foundation** [link to grant description](https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Research_Fund/Network_perspectives_on_collective_memory_processes_across_the_Arabic_and_English_Wikipedias)
 
-**This is submitted to ICWSM '21** [link to preprint](https://arxiv.org/abs/2404.10706)
+**This is submitted to ICWSM '26** [link to preprint](https://arxiv.org/abs/2404.10706)
 
 #### Research Question
 *Are there measurable differences in how collective memory is constructed across languages—and how do platform affordances shape those differences?*
