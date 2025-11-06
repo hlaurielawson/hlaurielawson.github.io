@@ -2,10 +2,10 @@
 layout: page
 title: portfolio
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A collection of projects that I am currently working on and have worked on in the past. I utilize a mixed methods approach prioritizing qantiative methods with python.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Current, Past]
 horizontal: false
 ---
 
