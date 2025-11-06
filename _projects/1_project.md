@@ -4,7 +4,7 @@ title: Affordance Perception Across Languages and Memories
 description: A Study of Wikipedia Editors on the ‘Arab Spring’ Article
 img: assets/img/12.jpg
 importance: 1
-category: current
+category: Current
 ---
 
 Every project has a beautiful feature showcase page.
