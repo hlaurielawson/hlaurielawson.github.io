@@ -1,36 +1,29 @@
 ---
 layout: page
-title: Wikipedia Article Ecosystem: Leveraging History, Navigation, Collaboration,  and Consumption Behaviors
-description: Multi-graph behavioral modeling for content discovery and recommendation
+title: Remembering Afghanistan
+description: Cross-lingual behavioral analysis of geopolitical narratives on social media
 img:
-importance: 4
+importance: 5
 category: Past
 ---
 
-I designed and implemented a multi-graph modeling approach to identify similar Wikipedia articles using behavioral signals—clickstreams, wikilinks, shared editors, and category structure. Instead of defining similarity through text alone, I analyzed how users navigate and construct pages to map how topics are meaningfully connected in practice.
+I designed and led a bilingual computational study analyzing how people across English- and Arabic-speaking communities discussed the U.S. withdrawal from Afghanistan on social media. Instead of looking only at text content, I modeled behavioral patterns in topic engagement, sentiment polarity, and geographic variation to understand how narratives evolved over time and across linguistic communities.
 
-Most similarity systems treat articles as isolated text blocks. My work treats them as behavioral artifacts shaped by user activity and platform affordances—providing a more accurate and interpretable foundation for search and recommendation.
-
-**Extended Abstract Sent to Wiki Workshop '25** [link to preprint](https://wikiworkshop.org/2025/paper/wikiworkshop_2025_paper_25.pdf)
-
+Most research looks at sentiment or topic modeling in a single language. My work investigates how narratives diverge across languages—how English and Arabic speakers frame the same geopolitical moment differently, and how these differences reflect patterns of polarization, regional identity, and collective memory formation.
 
 #### Research Question
-*How can behavioral interaction data improve article similarity modeling on large user-generated platforms?*
+*How do English- and Arabic-language users differ in their topic engagement, sentiment patterns, and geographic reactions surrounding the U.S. withdrawal from Afghanistan—and what do these differences reveal about cross-lingual narrative formation?*
 
 #### Business Impact
-Supports better recommendation engines, search ranking, and content discovery systems by integrating real user behavior into similarity metrics.
+Provides actionable insight into cross-market sentiment, information polarization, and regional narrative drift, supporting teams working in trust & safety, global communications strategy, risk analysis, and multilingual content understanding.
 
 #### What I did
-- **Built four behavioral networks**: clickstreams, wikilinks, editor co-authorship, and category similarity.
-- **Merged networks into a unified behavioral multi-graph** using NetworkX.
-- **Applied Pareto-based core extraction** to identify key knowledge clusters.
-- **Benchmarked the approach against LTRank** to validate interpretability and performance.
-- **Created 2D and 3D visualizations** to expose hidden ecosystem structures.
+- **Built a bilingual NLP pipeline** using English and Arabic tokenization, topic modeling, and sentiment scoring tools.
+- **Collected and analyzed a large cross-lingual dataset** of tweets around the withdrawal and one-year anniversary.
+- **Modeled geographic sentiment variation** to identify where and how reactions diverged across regions.
+- **Compared topic alignment vs. sentiment alignment** to uncover mismatches in how different communities framed the event.
+- **Explored causal patterns** between withdrawal milestones and shifts in sentiment polarity.
 
 #### Why it matters
-This work demonstrates how behavioral data enriches similarity modeling, producing more intuitive and user-centered knowledge discovery tools.
-
-
-#### Where this work has been presented:
-**Methods** 
-- Jones, H. Laurie (2024, January 11-11). Wikipedia Article Ecosystem: Leveraging History, Navigation, Collaboration, and Consumption Behaviors. [Wiki Workshop 2025]. Virtual. <https://www.youtube.com/watch?v=lePKDgoxktc>  
+This study shows how linguistic and geographic context shape public reaction to major geopolitical events. By combining behavioral data with bilingual NLP methods, it provides a scalable framework for analyzing global discourse—critical for organizations monitoring cross-market sentiment, emerging risks, and international information environments.
+ 
