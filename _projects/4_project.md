@@ -1,80 +1,36 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Wikipedia Article Ecosystem: Leveraging History, Navigation, Collaboration,  and Consumption Behaviors
+description: Multi-graph behavioral modeling for content discovery and recommendation
 img:
 importance: 3
-category: fun
+category: past
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I designed and implemented a multi-graph modeling approach to identify similar Wikipedia articles using behavioral signals—clickstreams, wikilinks, shared editors, and category structure. Instead of defining similarity through text alone, I analyzed how users navigate and construct pages to map how topics are meaningfully connected in practice.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Most similarity systems treat articles as isolated text blocks. My work treats them as behavioral artifacts shaped by user activity and platform affordances—providing a more accurate and interpretable foundation for search and recommendation.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+**Extended Abstract Sent to Wiki Workshop '25** [link to preprint](https://wikiworkshop.org/2025/paper/wikiworkshop_2025_paper_25.pdf)
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+#### Research Question
+*How can behavioral interaction data improve article similarity modeling on large user-generated platforms?*
+
+#### Business Impact
+Supports better recommendation engines, search ranking, and content discovery systems by integrating real user behavior into similarity metrics.
+
+#### What I did
+- **Built four behavioral networks**: clickstreams, wikilinks, editor co-authorship, and category similarity.
+- **Merged networks into a unified behavioral multi-graph** using NetworkX.
+- **Applied Pareto-based core extraction** to identify key knowledge clusters.
+- **Benchmarked the approach against LTRank** to validate interpretability and performance.
+- **Created 2D and 3D visualizations** to expose hidden ecosystem structures.
+
+#### Why it matters
+This work demonstrates how behavioral data enriches similarity modeling, producing more intuitive and user-centered knowledge discovery tools.
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+#### Where this work has been presented:
+**Methods** 
+- Jones, H. Laurie (2024, January 11-11). Wikipedia Article Ecosystem: Leveraging History, Navigation, Collaboration, and Consumption Behaviors. [Wiki Workshop 2025]. Virtual. <https://www.youtube.com/watch?v=lePKDgoxktc>  

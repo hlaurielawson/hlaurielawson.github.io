@@ -15,13 +15,14 @@ Most research looks at what editors do. My work investigates how they think: how
 *How do cultural and linguistic contexts shape the way users perceive and use platform features and how can those insights guide more inclusive product and content design?*
 
 #### Business Impact
-Findings from this work would help product and UX teams design platform affordances that foster trust, equity, and meaningful participation across global user communities.
+Provides insight for designing editor tools, moderation workflows, and cross-market UX structures by revealing gaps between intended affordances and actual user behavior
 
 #### What I did (and am doing)
-- Designed a bilingual survey (English & Arabic) distributed to 200 Wikipedia editors, capturing how they perceive platform tools, editorial norms, and Wikipedia’s role in preserving history.
-- Conducted retrospective interviews where editors reflected on their own edits—discussing motivation, cultural context, and the norms guiding their actions.
-- Collaborated with Arabic-speaking researchers to ensure translation accuracy and cultural relevance in both survey and analysis.
-- Analyzing patterns across languages to identify how cultural context and affordance perception influence memory construction and content divergence.
+- **Designed a bilingual survey** (English & Arabic) distributed to 200 Wikipedia editors, capturing how they perceive platform tools, editorial norms, and Wikipedia’s role in preserving history.
+- **Conducted retrospective interviews** where editors reflected on their own edits—discussing motivation, cultural context, and the norms guiding their actions.
+- **Linked self-reported perception data** to behavioral traces to identify mismatches.
+- **Collaborated with Arabic-speaking researchers** to ensure translation accuracy and cultural relevance in both survey and analysis.
+- Identified cross-lingual differences in motivations, norms, and editorial patterns.
 
 #### Why it matters
 This research design brings together quantitative scale and qualitative depth to capture how users perceive and act through platform features across languages. By pairing bilingual surveys with retrospective interviews, I was able to connect what people say about their experiences to what they actually do on the platform.
