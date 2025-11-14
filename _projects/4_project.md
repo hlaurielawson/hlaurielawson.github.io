@@ -2,7 +2,7 @@
 layout: page
 title: Wikipedia Article Ecosystem: Leveraging History, Navigation, Collaboration,  and Consumption Behaviors
 description: Multi-graph behavioral modeling for content discovery and recommendation
-img:
+img: assets/img/multigraphImg.jpg
 importance: 4
 category: Past
 ---
