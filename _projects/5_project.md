@@ -4,7 +4,7 @@ title: Wikipedia Article Ecosystem: Leveraging History, Navigation, Collaboratio
 description: Multi-graph behavioral modeling for content discovery and recommendation
 img:
 importance: 4
-category: past
+category: Past
 ---
 
 I designed and implemented a multi-graph modeling approach to identify similar Wikipedia articles using behavioral signals—clickstreams, wikilinks, shared editors, and category structure. Instead of defining similarity through text alone, I analyzed how users navigate and construct pages to map how topics are meaningfully connected in practice.
