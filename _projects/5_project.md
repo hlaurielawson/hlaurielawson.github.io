@@ -2,7 +2,7 @@
 layout: page
 title: Remembering Afghanistan
 description: Cross-lingual behavioral analysis of geopolitical narratives on social media
-img: assets/img/generticSentiment.jpg
+img: assets/img/genericSentiment.jpg
 importance: 5
 category: Past
 ---
