@@ -8,7 +8,7 @@ importance: 3
 category: Past
 ---
 
-#### *With Prof. Brian Keegan — 2023*
+***With Prof. Brian Keegan — 2023***
 
 I designed and led a large-scale computational study to analyze how Wikipedia’s English and Arabic editions construct different narratives about the Arab Spring over time. Instead of looking only at article content, I examined how editors behave—how they add links, update information, and reference related topics—to understand how narratives are built through collective action.
 

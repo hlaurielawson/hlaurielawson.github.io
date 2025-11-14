@@ -7,7 +7,7 @@ importance: 6
 category: Past
 ---
 
-#### *With Prof. Ricarose Roque — 2023*
+***With Prof. Ricarose Roque — 2023***
 
 I designed and built a multilingual dashboard that helps users navigate, compare, and understand Wikipedia content across languages. Leveraging the multilingual data pipelines I developed for a Wikimedia Research Fund project, I integrated behavioral statistics, cross-language link structure, and LLM-based summarization to support both monolingual and multilingual readers.
 

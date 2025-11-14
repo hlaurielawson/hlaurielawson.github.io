@@ -7,7 +7,7 @@ importance: 5
 category: Past
 ---
 
-#### *With Prof. Alexandra Siegel — 2022*
+***With Prof. Alexandra Siegel — 2022***
 
 I designed and led a bilingual computational study analyzing how people across English- and Arabic-speaking communities discussed the U.S. withdrawal from Afghanistan on social media. Instead of looking only at text content, I modeled behavioral patterns in topic engagement, sentiment polarity, and geographic variation to understand how narratives evolved over time and across linguistic communities.
 
