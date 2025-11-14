@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cross-Language Evolution of Collective Memory on Wikipedia
+title: The Evolution of Collective Memory on Wikipedia
 description: Mapping how Wikipedia affordance use evolves differently across English and Arabic
 img: assets/img/CMPoster.jpg
 # redirect: https://unsplash.com
