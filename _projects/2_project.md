@@ -7,6 +7,8 @@ importance: 2
 category: Current
 ---
 
+#### *With Prof. Heather Ford — 2023*
+
 I designed and led a cross-lingual prompt experiment to analyze how GPT-4, Gemini, and DeepSeek generate narratives about the Arab Spring across English and Arabic. By treating model outputs as behavioral data, I assessed how cultural framing, language, and temporal cues influence the model’s reconstruction of historical events.
 
 Most work on LLMs evaluates accuracy or surface-level bias. My work examines how models simulate perspective—how they represent collective memory and shift framing based on linguistic and cultural signals in prompts.

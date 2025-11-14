@@ -7,6 +7,8 @@ importance: 4
 category: Past
 ---
 
+
+
 I designed and implemented a multi-graph modeling approach to identify similar Wikipedia articles using behavioral signals—clickstreams, wikilinks, shared editors, and category structure. Instead of defining similarity through text alone, I analyzed how users navigate and construct pages to map how topics are meaningfully connected in practice.
 
 Most similarity systems treat articles as isolated text blocks. My work treats them as behavioral artifacts shaped by user activity and platform affordances—providing a more accurate and interpretable foundation for search and recommendation.
